@@ -36,6 +36,7 @@ libbts_a_SOURCES = \
 	dtx_dl_amr_fsm.c \
 	scheduler_mframe.c \
 	ta_control.c \
+	trx.c \
 	$(NULL)
 
 libl1sched_a_SOURCES = scheduler.c

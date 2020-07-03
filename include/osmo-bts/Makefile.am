@@ -26,4 +26,5 @@ noinst_HEADERS = \
 	phy_link.h \
 	dtx_dl_amr_fsm.h \
 	ta_control.h \
+	trx.h \
 	$(NULL)
